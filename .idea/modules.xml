@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/inpainter.iml" filepath="$PROJECT_DIR$/.idea/inpainter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../visual-semantic-embedding/.idea/visual-semantic-embedding.iml" filepath="$PROJECT_DIR$/../visual-semantic-embedding/.idea/visual-semantic-embedding.iml" />
+    </modules>
+  </component>
+</project>
