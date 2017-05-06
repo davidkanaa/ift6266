@@ -9,6 +9,7 @@ def l2_loss(targets, y):
 def cross_entropy_loss(logits, targets):
     loss = tf.nn.sigmoid_cross_entropy_with_logits(logits=logits,
                                                    labels=targets)
+    loss = tf.reduce_mean(loss)
     return loss
 
 
